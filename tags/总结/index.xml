@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>总结 on Rylee&#39;s Blog</title>
+    <link>http://example.org/tags/%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 总结 on Rylee&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Rylee</copyright>
+    <lastBuildDate>Mon, 11 Jan 2021 21:07:35 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音乐分类——流行</title>
+      <link>http://example.org/%E9%9F%B3%E4%B9%90%E5%88%86%E7%B1%BB%E6%B5%81%E8%A1%8C/</link>
+      <pubDate>Mon, 11 Jan 2021 21:07:35 +0800</pubDate>
+      
+      <guid>http://example.org/%E9%9F%B3%E4%B9%90%E5%88%86%E7%B1%BB%E6%B5%81%E8%A1%8C/</guid>
+      <description>流行音乐，是指那些结构短小、内容通俗、形式活泼、情感真挚，并被广大群众所喜爱，广泛传唱或欣赏，流行一时的甚至流传后世的器乐曲和歌曲。这些乐曲和歌曲，植根于大众生活的丰厚土壤之中。因此，又有“大众音乐”</description>
+    </item>
+    
+  </channel>
+</rss>
