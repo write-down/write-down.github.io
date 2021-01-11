@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>其他 on Rylee&#39;s Blog</title>
+    <link>http://example.org/categories/%E5%85%B6%E4%BB%96/</link>
+    <description>Recent content in 其他 on Rylee&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Rylee</copyright>
+    <lastBuildDate>Fri, 11 Jan 2019 20:34:32 +0800</lastBuildDate><atom:link href="http://example.org/categories/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我所遵从的</title>
+      <link>http://example.org/%E6%88%91%E6%89%80%E9%81%B5%E4%BB%8E%E7%9A%84/</link>
+      <pubDate>Fri, 11 Jan 2019 20:34:32 +0800</pubDate>
+      
+      <guid>http://example.org/%E6%88%91%E6%89%80%E9%81%B5%E4%BB%8E%E7%9A%84/</guid>
+      <description>凡所难求皆绝好，及能如愿便平常。 在比利牛斯山这边是真理的，在另一边是错的。</description>
+    </item>
+    
+  </channel>
+</rss>
